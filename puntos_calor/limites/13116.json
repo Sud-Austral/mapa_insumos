@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -70.67098938594285,
+                            -33.51078227311893
+                        ],
+                        [
+                            -70.69524743528136,
+                            -33.502026228129814
+                        ],
+                        [
+                            -70.70547046803053,
+                            -33.52376877432348
+                        ],
+                        [
+                            -70.70637322817866,
+                            -33.53139118614042
+                        ],
+                        [
+                            -70.68530239158675,
+                            -33.53909355637863
+                        ],
+                        [
+                            -70.67098938594285,
+                            -33.51078227311893
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "REGION": "13",
+                "NOM_REGION": "REGI\u00d3N METROPOLITANA DE SANTIAGO",
+                "PROVINCIA": "131",
+                "NOM_PROVIN": "SANTIAGO",
+                "COMUNA": "13116",
+                "NOM_COMUNA": "LO ESPEJO"
+            }
+        }
+    ]
+}
