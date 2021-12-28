@@ -1,1 +1,1 @@
-var puntos = [{lat:'-20.22846', lng:'-40.23332', bright_ti4:'308.12', scan:'0.59', track:'0.53', acq_date:'2021-12-27', acq_time:'319', satellite:'1', confidence:'nominal', version:'2.0NRT', bright_ti5:'291.91', frp:'1.46',}]
+var puntos = [{lat:'-20.22846',lng:'-40.23332',bright_ti4:'308.12',scan:'0.59',track:'0.53',acq_date:'2021-12-27',acq_time:'319',satellite:'1',confidence:'nominal',version:'2.0NRT',bright_ti5:'291.91',frp:'1.46',}]
