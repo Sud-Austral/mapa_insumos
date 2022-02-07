@@ -1,0 +1,4 @@
+puntos = {
+    "type": "FeatureCollection",
+    "features": []
+}
