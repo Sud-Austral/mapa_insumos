@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-70.8356, -33.6616]}, "properties": {"1_MEAN": 3612.41732292}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-70.8361, -33.6639]}, "properties": {"1_MEAN": 3738.22339247}}]}
