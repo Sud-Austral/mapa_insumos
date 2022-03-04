@@ -1,1 +1,1 @@
-[{region: 'Biobío',provincia: 'Biobio',comuna: 'Alto Biobío',temporada: '2017-2018',nombre: 'CORDON DE PACHA',lat: -37.98888889,lng: -71.38055556,general: 'Incendios naturales',especifica: '3.1.1. Caí\xadda de rayo',year: '2018',mes: '3',dia: '7',duracion: '68',superficie: '0.8',plantacion: '-',vegetacion: '1',otraSupe: '0.0',codAP: 'WDPA-086',nameAP: 'Ralco',}]
+[{'region': 'Biobío','provincia': 'Biobio','comuna': 'Alto Biobío','temporada': '2017-2018','nombre': 'CORDON DE PACHA','lat': -37.98888889,'lng': -71.38055556,'general': 'Incendios naturales'}]
