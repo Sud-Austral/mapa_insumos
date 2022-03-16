@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.60289931834185,-41.61931299934104]},"properties":{"COD_CUEN":"104","COD_SUBC":"1041","COD_SSUBC":"10417","NOM_SSUBC":"Rio Maullin entre Rio Del Cebadal y Desembocadura","CUT_REG":"10","CUT_PROV":"101","CUT_COM":"10108","REGION":"Los Lagos","PROVINCIA":"Llanquihue","COMUNA":"Maullín","COD_BNA":"10417001-3","NOMBRE":"MAULLIN","ESTADO":"Vigentes","NOM_CUEN":"Cuencas e Islas entre R.Bueno y R. Puelo","POINT_X":-73.6028993183,"POINT_Y":-41.6193129993}}
+]}
